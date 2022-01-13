@@ -127,3 +127,11 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# files
+data/test.ipynb
+data/data
+data/2018
+runner.ipynb
+superquail/models/dpmlp.py
+#Adding initial commit with folktables wrappper, superquail implementation, and other setup
